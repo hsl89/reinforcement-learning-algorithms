@@ -1,0 +1,3 @@
+gym==0.12.5
+atari_py
+opencv-python
